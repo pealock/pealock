@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on becoming a full stack developer.
 
-🐐 FARM stack.
+🌐 GO/ React tech stack
 
 🌱 I’m always learning something new!
 
