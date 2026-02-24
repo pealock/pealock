@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on becoming a full stack developer.
 
-🌐 GO/ React tech stack
+🌐 GO && React tech stack
 
 🌱 I’m always learning something new!
 
